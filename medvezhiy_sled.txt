@@ -1,1 +1,1 @@
-bridge-builder-safe-certificates.trycloudflare.com
+rentals-bbs-downloads-once.trycloudflare.com
