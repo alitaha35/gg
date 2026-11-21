@@ -1,1 +1,1 @@
-undefined-north-url-yarn.trycloudflare.com
+bridge-builder-safe-certificates.trycloudflare.com
